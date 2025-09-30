@@ -63,4 +63,18 @@ disp('Zeros:'), disp(z2.'), disp('Poles:'), disp(p2.')
 disp('Gain k:'),disp(k2)
 ![images](https://github.com/Khan548-codes/Excersise10/blob/main/Images/Screenshot%202025-09-30%20152345.png)
 
+FIR (Finite Impulse Response):
+•	Output depends only on present & past inputs.
+•	No feedback (a=1a=1a=1).
+•	Impulse response lasts a finite time.
+•	Always stable, can be linear-phase.
+•	Example: your 5-pt & 9-pt moving average filters.
+
+IIR (Infinite Impulse Response):
+•	Output depends on inputs and past outputs (feedback).
+•	Impulse response is infinite.
+•	More efficient (fewer coefficients) but can be unstable.
+•	Usually nonlinear phase.
+
+
 
