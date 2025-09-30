@@ -61,4 +61,6 @@ disp('Gain k:'), disp(k1)
 disp('--- 9-point MAF ---');
 disp('Zeros:'), disp(z2.'), disp('Poles:'), disp(p2.')
 disp('Gain k:'),disp(k2)
-![images]()
+![images](https://github.com/Khan548-codes/Excersise10/blob/main/Images/Screenshot%202025-09-30%20152345.png)
+
+
